@@ -1,5 +1,7 @@
 # Privacy Policy
 
+Privacy Policy
+
 Effective date: 3 January 2024.
 
 This Privacy Policy outlines how the 'All In One Dictionary' app by SHAYPRAM DEVELOPERS (referred to as "we," "us," or "our") collects, uses, maintains, and discloses information gathered from users (referred to as "User" or "you") of the All In One Dictionary mobile application (referred to as "App").
@@ -11,7 +13,7 @@ Information Usage
 As we do not collect personal information, we do not use or disclose user data for any purpose. While our App may require an internet connection for certain features, we do not track, store, or analyze user activity within the App.
 
 Third-Party Services
-The All In One Dictionary app may include links to third-party services, including the official websites of the Cambridge Dictionary (https://dictionary.cambridge.org), Oxford Dictionary (https://www.oxfordlearnersdictionaries.com), Thesaurus (https://www.thesaurus.com), and Collins Dictionary (https://www.collinsdictionary.com/), to enhance the user experience. Please be aware that these third-party services have their own privacy policies, and we do not control how they collect or use your data. We encourage you to review the privacy policies of these third-party services.
+The All In One Dictionary app may include links to third-party services, including the official websites of the Cambridge Dictionary (https://dictionary.cambridge.org), Oxford Dictionary (https://www.oxfordlearnersdictionaries.com) and Thesaurus (https://www.thesaurus.com), to enhance the user experience. Please be aware that these third-party services have their own privacy policies, and we do not control how they collect or use your data. We encourage you to review the privacy policies of these third-party services.
 
 Children's Privacy
 Our App is designed to be suitable for users of all ages, including children under the age of 13. We do not knowingly collect personal information from children. If you are a parent or guardian and believe that your child has provided us with personal information, please contact us, and we will promptly delete such information from our records.
@@ -25,6 +27,6 @@ The SHAYPRAM DEVELOPERS Team reserves the right to update or modify this Privacy
 Contact Us
 If you have questions or concerns about this Privacy Policy or the practices of our App, please feel free to reach out to us at shaypramdevelopers@gmail.com.
 
-The All In One Dictionary mobile application is not affiliated with or endorsed by Cambridge University, Oxford University, Thesaurus.com, or Collins Dictionary, or their official representatives. This app is an independent project developed by SHAYPRAM DEVELOPERS to provide language learning resources to its users.
+The All In One Dictionary mobile application is not affiliated with or endorsed by Cambridge University, Oxford University or Thesaurus.com, or their official representatives. This app is an independent project developed by SHAYPRAM DEVELOPERS to provide language learning resources to its users.
 
 By using the All In One Dictionary App, you indicate your acceptance of this Privacy Policy.
